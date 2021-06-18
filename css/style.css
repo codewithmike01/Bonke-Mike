@@ -16,12 +16,15 @@ body{
 }
 
 #tribute-info{
-    text-align: left;
+    text-align: center;
    font-weight: bold;
+   font-size: 2rem;
+   
    
 }
 p{
-    text-align: left;
+    text-align: center;
+    
 }
 
 h3{
@@ -40,6 +43,12 @@ h3{
     display: block;
     height: auto;
     margin: 0 auto;
+}
+
+p{
+    margin: 0 2em;
+    text-align: justify;
+    margin-bottom: 2em;
 }
 
 #img-div{
