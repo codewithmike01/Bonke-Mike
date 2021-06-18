@@ -15,10 +15,12 @@ body{
     width: 70%;
 }
 
+
+
 #tribute-info{
     text-align: center;
    font-weight: bold;
-   font-size: 2rem;
+   font-size: 1.2rem;
    
    
 }
@@ -66,9 +68,11 @@ p{
 
 #title{
     text-align: center;
+    margin-top: 1.5em;
 }
 #img-caption{
     text-align: center;
+    margin-top: 2em;
 }
 
 h1{
